@@ -1,0 +1,4 @@
+﻿  Selin.cpp
+C:\Users\student\source\repos\Selin\Selin\Selin.cpp(35,13): warning C4129: N: неизвестная escape-последовательность
+C:\Users\student\source\repos\Selin\Selin\Selin.cpp(40,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Selin.vcxproj -> C:\Users\student\source\repos\Selin\Debug\Selin.exe
